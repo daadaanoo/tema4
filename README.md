@@ -21,3 +21,5 @@
 ![ScreenShot](output2-4.png)
 Скриншоты кода в NetBeans:
 ![ScreenShot](source2.png)
+
+
