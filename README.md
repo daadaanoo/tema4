@@ -6,19 +6,10 @@
 | ------ | ------ | ------ | ------ |
 | Ногайбай Даулеткерей | ИС-302 | ОПП | 6. Интернационализация приложений |
 
-1-я программа InternationalFormat.java.
-Вывод в консоли:
-![ScreenShot](Снимок экрана (49).png)
-![ScreenShot](output1-2.png)
-![ScreenShot](output1-3.png)
-Скриншоты кода в NetBeans:
-![ScreenShot](source1.png)
 
-2-я программа Launch.java - вопросы и ответы на разных языках.
 Вывод в консоли:
-![ScreenShot](output2-1.png)
-![ScreenShot](output2-2.png)
-![ScreenShot](output2-3.png)
-![ScreenShot](output2-4.png)
+![ScreenShot](png(49).png)
 Скриншоты кода в NetBeans:
-![ScreenShot](source2.png)
+![ScreenShot](png(50).png)
+![ScreenShot](png(51).png)
+![ScreenShot](png(52).png)
